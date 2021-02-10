@@ -1,0 +1,3 @@
+query	PA1.fasta
+db	PA14.db
+outfmt	6

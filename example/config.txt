@@ -1,0 +1,2 @@
+Prefix plugins/BLASTP/example/
+Plugin BLASTP inputfile parameters.txt outputfile PA1_PA14.out
